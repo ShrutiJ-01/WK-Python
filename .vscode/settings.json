@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./doctor_patient_sql"
+    ]
+}
