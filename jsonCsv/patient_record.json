@@ -1,0 +1,32 @@
+{
+        "patients": [
+                {
+                        "uid": 1,
+                        "first_name": "Sheldon",
+                        "last_name": "Cooper",
+                        "age": 10,
+                        "gender": "Male"
+                },
+                {
+                        "uid": 2,
+                        "first_name": "Missy",
+                        "last_name": "Cooper",
+                        "age": 10,
+                        "gender": "Female"
+                },
+                {
+                        "uid": 3,
+                        "first_name": "Mary",
+                        "last_name": "Cooper",
+                        "age": 32,
+                        "gender": "Female"
+                },
+                {
+                        "uid": 4,
+                        "first_name": "Georgie",
+                        "last_name": "Cooper",
+                        "age": 13,
+                        "gender": "Male"
+                }
+        ]
+}
