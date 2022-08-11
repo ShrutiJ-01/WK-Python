@@ -1,5 +1,5 @@
 # WK-Python
- ###Python training repo
+Python training repo
  
- link to  javascripr repo :
+ link to  javascript repo :
  https://github.com/ShrutiJ-01/WK-Javascript
